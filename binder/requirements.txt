@@ -1,1 +1,8 @@
+pandas==2.1.4
+seaborn==0.13.2
+matplotlib==3.8.0
+matplotlib-fontja==1.0.0
+plotly==5.9.0
+yfinance==0.2.41
 
+ 
